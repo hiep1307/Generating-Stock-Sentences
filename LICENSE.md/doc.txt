@@ -1,0 +1,4 @@
+4.3
+192
+eigen (eigendecomposion) -> 122 -> 192
+
